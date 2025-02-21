@@ -31,7 +31,7 @@ body {
     box-sizing: border-box;
     text-align: center;
     font-family: 'Brush Script MT', cursive;
-    font-size: 14px;
+    font-size: 13.5px;
     background: #ffffff;
     width: 360px;
     height: 240px;
@@ -52,7 +52,7 @@ body {
 .mensaje p{
     position: relative;
     top: -10px;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 
 .carta {
